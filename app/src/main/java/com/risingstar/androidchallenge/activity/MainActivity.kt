@@ -8,6 +8,9 @@ import android.widget.*
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.risingstar.androidchallenge.*
+import com.risingstar.androidchallenge.adapter.DBInsertAsync
+import com.risingstar.androidchallenge.adapter.MainAdapter
+import com.risingstar.androidchallenge.adapter.RetrieveHisAsync
 import com.risingstar.androidchallenge.api.myapi
 import com.risingstar.androidchallenge.database.HistoryEntity
 import com.risingstar.androidchallenge.models.MyResponse
